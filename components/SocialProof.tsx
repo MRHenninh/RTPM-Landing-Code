@@ -23,7 +23,7 @@ const SocialProof: React.FC = () => {
     <section id="social-proof" className="py-20 bg-rtpm-blue-800 text-white">
       <div className="container mx-auto px-6">
         <div className="text-center mb-12">
-           <h2 className="text-4xl font-bold max-w-3xl mx-auto">Trusted by Leaders to Deliver Projects On Time and On Budget</h2>
+           <h2 className="text-4xl font-bold max-w-3xl mx-auto">“Trusted by Leaders to Deliver Projects On Time and On Budget”</h2>
         </div>
         
         <div className="max-w-6xl mx-auto mb-20">

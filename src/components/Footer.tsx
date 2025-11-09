@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
               <img src="https://raw.githubusercontent.com/MRHenninh/RTPM-landing-Asset/main/LinkedInLightBg.svg" alt="LinkedIn" className="w-6 h-6" />
             </a>
             <a href="https://x.com/Real_Time_PM" target="_blank" rel="noopener noreferrer" className="opacity-80 hover:opacity-100 transition-opacity">
-              <img src="https://raw.githubusercontent.com/MRHenninh/RTPM-landing-Asset/main/X-logo-black.svg" alt="X" className="w-5 h-5" />
+              <img src="https://raw.githubusercontent.com/MRHenninh/RTPM-landing/main/Xlogo-black.png" alt="X" className="w-5 h-5" />
             </a>
           </div>
         </div>
